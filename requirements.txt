@@ -1,0 +1,5 @@
+openaip
+fastapi
+uvicorn
+python-multipapiprt
+python-dotenv
